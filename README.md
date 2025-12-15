@@ -13,7 +13,7 @@ Soy un estudiante de término de **Ingeniería en Sistemas** en la República Do
 
 ### 🛠️ Tech Stack & Herramientas
 
-[cite_start]Combinación de desarrollo moderno y análisis de datos [cite: 32-35, 98-104].
+Combinación de desarrollo moderno y análisis de datos.
 
 | **Frontend** | **Backend** | **Data & Cloud** | **Tools** |
 | :---: | :---: | :---: | :---: |
