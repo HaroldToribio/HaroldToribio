@@ -4,7 +4,6 @@
 
 Soy un estudiante de término de **Ingeniería en Sistemas** en la República Dominicana, apasionado por crear soluciones tecnológicas que unen el desarrollo de software robusto con el análisis de datos inteligente. Me especializo en construir aplicaciones web escalables y en transformar datos crudos en decisiones estratégicas.
 
-- 🔭 **Actualmente trabajando en:** Un sistema de gestión de transporte con .NET Core y React.
 - 🌱 **Aprendiendo:** Profundizando en **Azure AI** y arquitecturas de datos avanzadas.
 - 💡 **Me interesa:** Desarrollo Full Stack, Inteligencia de Negocios (BI) e IoT.
 - ⚡ **Dato curioso:** Disfruto tanto optimizando una consulta SQL compleja como diseñando una UI intuitiva en React.
